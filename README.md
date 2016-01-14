@@ -1,4 +1,4 @@
-qweqweqwe
+PureScript Gulp quickstart project
 ----
 
 ### Installation
